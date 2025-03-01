@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [Project Name](TBD)
 
 - 🌱 I’m currently learning **TBD**
-
 - 👯 I’m looking to collaborate on [Project Name](TBD)
 
 - 🤝 I’m looking for help with [Project Name](TBD)
